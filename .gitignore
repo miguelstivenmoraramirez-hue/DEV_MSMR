@@ -1,0 +1,6 @@
+config/.env
+.env
+public/js/config.js
+.DS_Store
+Thumbs.db
+*.log
